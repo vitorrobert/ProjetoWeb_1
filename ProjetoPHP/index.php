@@ -10,6 +10,16 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <!-- Parte do Vitor inicio -->
+        <!-- Parte do Vitor final -->
+        
+         
+        
+        <!-- Parte do Hilarison inicio -->
+               
+        <!-- Parte do Hilarison final -->
+
+        
         <?php
             echo"Hilari Hilarie oh oh oh"
         ?>
