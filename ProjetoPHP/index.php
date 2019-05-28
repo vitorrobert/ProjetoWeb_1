@@ -46,13 +46,39 @@ and open the template in the editor.
   </script>
         <!-- Parte do Vitor final -->
         
-         
-        
-        <!-- Parte do Hilarison inicio -->
-               
-        <!-- Parte do Hilarison final -->
-
-        
-  
- </body>
+          <!-- Parte do Hilarison inicio</header> -->
+          <header>
+        <div class="container">
+  <div class="row">
+    <div class="col-sm">
+     Coluna numero um
+     <h2>Inicio</h2>
+     
+    </div>
+    <div class="col-sm">
+      Coluna numero dois
+      <h2>Oque fazemos?</h2>
+    </div>
+   
+      <div class="col-sm">
+      Coluna numero tres
+      <h2>Quem somos?</h2>
+    </div>
+      
+      <div class="col-sm">
+       Coluna numero quatro
+       <h2>Contato</h2>
+      </div>
+      
+      <div class="col-sm">
+       Coluna numero cinco
+       <h2>Orçamento</h2>
+      </div>
+      
+  </div>
+</div>
+      </header>  
+          <!-- Parte do Hilarison final --> 
+    </body>   
+      
 </html>
