@@ -57,7 +57,7 @@ and open the template in the editor.
     </div>
     <div class="col-sm">
       Coluna numero dois
-      <h2>Oque fazemos?</h2>
+      <h2>O que fazemos?</h2>
     </div>
    
       <div class="col-sm">
@@ -79,6 +79,35 @@ and open the template in the editor.
 </div>
       </header>  
           <!-- Parte do Hilarison final --> 
-    </body>   
+          <div class="footer-main-div">
+              <div class="footer-social-icons">
+                  <ul>
+                      <li><a href="#" target="blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="#" target="blank"><i class="fa fa-youtube"></i></a></li>
+                      <li><a href="#" target="blank"><i class="fa fa-twitter"></i></a></li>
+                      <li><a href="#" target="blank"><i class="fa fa-google-plus"></i></a></li>
+
+                  </ul> 
+              </div>
+              <div class="footer-menu-one">
+                  <ul>
+                      <li><a href="#">Inicio</a></li>
+                      <li><a href="#">Produtos</a></li>
+                      <li><a href="#">Contato</a></li>                                         
+                      
+                      
+                  </ul>
+              </div>
+              
+              <div class="footer-menu-two">
+                  <ul>
+                      <li><a href="#">Quem somos?</a></li>
+                      <li><a href="#">Orçamento</a></li>                  
+                  </ul>
+              </div>
+          
+
+          </div>
+              </body>   
       
 </html>

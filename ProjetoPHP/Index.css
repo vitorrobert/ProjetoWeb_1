@@ -12,7 +12,7 @@ body{
 margin: 0;
 padding: 0;
 font-family: 'verdana';
-background-color: aqua;
+background: url(img/andromeda2.jpg);;
 }
 header{
     position: relative;
@@ -110,4 +110,129 @@ nav ul li a.active, nav ul li a:hover{
      nav.active ul li{
         margin: 0;
     }
+}
+
+.section1{
+    display: block;
+    background: white;
+    position: relative;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 4px;
+    box-shadow:  0 2px 5px rgba(0,0,0, .2);
+}
+
+a{
+    
+}
+.footer-main-div{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    background-color: whitesmoke;
+    padding: 20px 0px;
+}
+
+.footer-main-icons{
+    width: 100%;
+    height: auto;
+    margin:auto; 
+}
+
+.footer-social-icons ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.footer-social-icons ul li{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin: 0px 10px;
+    border-radius: 100%;
+    background: darkblue;    
+}
+
+.footer-social-icons ul li a{
+    color: white;
+    font-size: 25px;
+    display: block;
+}
+
+.footer-social-icons ul li a i{
+    line-height: 50px;
+}
+
+.footer-menu-one{
+    width: 100%;
+    height: auto;
+    margin: auto;  
+    margin-top: 25px;
+}
+
+.footer-menu-one ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.footer-menu-one ul li{
+    display: inline-block;
+    margin: 0px 10px;
+    
+}
+
+.footer-menu-one ul li a{
+    font-family: arial;
+    font-size: 15px;
+    font-weight: 600;
+    color: blue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.footer-menu-two{
+    width: 100%;
+    height: auto;
+    margin: auto;  
+    margin-top: 10px;
+}
+
+.footer-menu-two ul{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.footer-menu-two ul li{
+    display: inline-block;
+    margin: 0px 10px;
+    
+}
+
+.footer-menu-two ul li a{
+    font-family: arial;
+    font-size: 15px;
+    font-weight: 600;
+    color: blue;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.footer-menu-one ul li a:hover{
+    color: black;
+    
+}
+
+.footer-menu-two ul li a:hover{
+    color:black;
+}
+
+.footer-social-icons ul li:hover{
+    background: black;
+}
+.footer-social-icons ul li:hover a{
+    color: darkblue;
 }
