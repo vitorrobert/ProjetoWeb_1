@@ -54,11 +54,20 @@ and open the template in the editor.
      Coluna numero um
      <h2>Inicio</h2>
      
-    </div>
-    <div class="col-sm">
+ <div class="card bg-dark text-white">
+  <img src="../../IMG/coding-on-laptop.jpg" class="card-img"  style="width: 36.9rem;" alt="">
+  <div class="card-img-overlay">
+    <h5 class="card-title">Tenha seu proprio site</h5>
+    <p class="card-text">Ja penso em ter seu proprio site ou loja web. Nos das CYBERSPACE somos uma empresa especializada na are de desenvolvimento web</p>
+  </div>
+ </div>
+</div>
+      
+<div class="col-sm">
       Coluna numero dois
       <h2>O que fazemos?</h2>
-    </div>
+      
+</div>
    
       <div class="col-sm">
       Coluna numero tres
